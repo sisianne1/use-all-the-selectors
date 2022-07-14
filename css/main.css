@@ -26,7 +26,7 @@ nav ul {
   background-color: #eee8d5;
 }
 
-#favs #facts #types {
+h2 {
   color: #93a1a1;
 }
 
@@ -34,7 +34,7 @@ nav ul {
   background-color: #b58900;
 }
 
-.dfn strong {
+div > strong {
   color: #fff;
 }
 
